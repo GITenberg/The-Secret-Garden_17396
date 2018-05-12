@@ -22,6 +22,8 @@ description: "The Secret Garden is a children's novel by Frances Hodgson Burnett
   \ with illustrations by Maria Louise Kirk (signed as M. L. Kirk) and the British\
   \ edition by Heinemann with illustrations by Charles Heath Robinson.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17396#The-Secret-Garden
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2005-12-26'
 gutenberg_type: Text
